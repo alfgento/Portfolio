@@ -1,0 +1,22 @@
+body {
+  width: 100% auto;
+  margin: 0;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  width: 100% auto;
+  color: #fff;
+  background-color: #0d1117;
+  margin: 0;  
+}
+
+a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+ul {
+  list-style: none;
+}
+

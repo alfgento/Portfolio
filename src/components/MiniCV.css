@@ -1,0 +1,32 @@
+.cv-card {
+    padding: 2rem;
+    width: 28rem;
+    height: 44rem;
+    border-radius: 42px;
+    box-shadow:   12px 12px 24px #080b0e,
+                 -12px -12px 24px #121720;
+}
+
+.cv-card h3 {
+    font-size: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    line-height: 20px;
+}
+
+.cv-card p {
+    text-align: start;
+    width: 26rem;
+    text-align: start;
+}
+
+.skillContainer {
+    width: 26rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.skillContainer li {
+    padding: 10px;
+}

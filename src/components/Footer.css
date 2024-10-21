@@ -1,0 +1,33 @@
+.footMenu {    
+    display: flex;
+    justify-content: center;    
+    border-top: solid 1px #3d444d;
+}
+
+.infoMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.infoMenu li {
+    padding: 6.75px;
+}
+
+.socialsMenu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+}
+
+.socialsMenu a {
+    font-size: 25px;
+}
+
+.footMenu p {
+    display: flex;
+}
