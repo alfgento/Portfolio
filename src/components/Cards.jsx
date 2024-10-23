@@ -5,7 +5,7 @@ function Cards ({title,desc,style}) {
     return (
         <>
             <div className={`card ${style}`}>
-                <h2>{title}</h2>
+                <h3>{title}</h3>
                 <p>{desc}</p>
             </div>
         </>
